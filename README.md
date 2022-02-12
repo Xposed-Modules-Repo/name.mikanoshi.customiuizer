@@ -3,7 +3,7 @@
 CustoMIUIzer module contains a variety of mods that will provide additional functionality for your MIUI device.
 
 ## System compatibility
-Module was written, tested and is mainly intended for MIUI 10-12 on Android 9-10. Mods are not guaranteed to fully work on any other versions, especially lower MIUI versions. APK installation is limited to Android 7+.
+Module was written, tested and is mainly intended for MIUI 10-12.5 on Android 9-10. Mods are not guaranteed to fully work on any other versions, especially lower MIUI versions. APK installation is limited to Android 7+.
 
 ## EdXposed Framework compatibility
 Framework must be 0.4.6.4 or 0.5.1.4+, versions in between won't work. Module must not be installed from Google Play if 0.4.6.4 is used with app list mode enabled.
